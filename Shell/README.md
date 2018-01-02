@@ -14,6 +14,7 @@ salmon index -t <transcript> -i <output folder>
 
 ```
 
+## Salmon mapping phase 
 ```
 salmon qaunt 
 ```
@@ -23,4 +24,9 @@ salmon qaunt
 
 ### Essential C++ library
 1. [spdlog](https://github.com/gabime/spdlog/)
-2. [more resources](https://github.com/rigtorp/awesome-modern-cpp)
+2. [cereal](https://uscilab.github.io/cereal/)
+3. [more resources](https://github.com/rigtorp/awesome-modern-cpp)
+
+
+### Tools 
+1. [use fastq-dump smartly](https://edwards.sdsu.edu/research/fastq-dump/)
